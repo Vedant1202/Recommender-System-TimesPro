@@ -1,0 +1,20 @@
+id,City,Cityalias1,Cityalias2,Cityalias3,Cityalias4,Cityalias5,Center,centeralias1,centeralias2,centeralias3,institude,Capacity,SeatsAccommondaction,Setspending
+0,BANGALORE,bangaluru,null,null,null,null,TSW - Bangalore - Sarjapur Road,Sarjapur Road,Sarjapur,null,Null,20,15,5
+1,BANGALORE,bangaluru,null,null,null,null,TSW - BANGALORE - INDIRANAGAR,INDIRANAGAR,null,null,Null,20,15,5
+2,BANGALORE,bangaluru,null,null,null,null,TSW - BANGALORE - ELECTRONIC CITY,ELECTRONIC CITY,Electroniccity,null,Null,20,15,5
+3,Calicut,Kozhikode,null,null,null,null,TSW - CALICUT - MANKAVE,MANKAVE,null,null,Null,20,15,5
+4,Chennai,madras,null,null,null,null,TSW - CHENNAI - T. NAGAR,T. NAGAR,Theagaraya�Nagar,Theagaraya,Null,20,15,5
+5,Gurgaon,Gurugram,Gudgaon,null,null,null,TSW - Gurgaon - Sector 46,Sector 46,Sector46,null,Null,20,15,5
+6,Gurgaon,Gurugram,Gudgaon,null,null,null,TSW - GURGAON - DLF PHASE 2,DLF PHASE 2,DLF,Phase2,Null,20,15,5
+7,Hyderabad,HYD,null,null,null,null,TSW - HYDERABAD - GACHIBOWLI ROAD,GACHIBOWLI ROAD,GACHIBOWLI,null,Null,20,15,5
+8,Hyderabad,HYD,telangana,null,null,null,TSW - HYDERABAD - BANJARA HILLS,BANJARA HILLS,null,null,Null,20,15,5
+9,Hyderabad,HYD,telangana,null,null,null,TSW - HYDERABAD - HITECH CITY,HITECH CITY,null,null,Null,20,15,5
+10,Kolkata,Calcutta,null,null,null,null,TSW - Kolkata - Salt Lake City,Salt Lake City,Salt Lake,null,Null,20,20,0
+11,Kolkata,Calcutta,null,null,null,null,TSW - KOLKATA - CAMAC STREET,CAMAC STREET,null,null,Null,20,15,5
+12,Mumbai,bombay,bumbai,MUM,null,null,TSW - MUMBAI - THANE WEST,THANE WEST,Thane,null,Null,20,15,5
+13,Mumbai,bombay,bumbai,MUM,Navi mumbai,New bombay,TSW - MUMBAI - BANDRA EAST,BANDRA EAST,Bandra,vandra,Null,20,15,5
+14,Mumbai,bombay,bumbai,MUM,Navi mumbai,New bombay,TSW - MUMBAI - ANDHERI,ANDHERI,null,null,Null,20,15,5
+15,Mumbai,Mumbai,bombay,bumbai,MUM,New bombay,TSW - NAVI MUMBAI - VASHI,VASHI,null,null,Null,20,15,5
+16,New Delhi,delhi,rajdhani,null,null,null,TSW - NEW DELHI - NEHRU PLACE,NEHRU PLACE,null,null,Null,20,15,5
+17,Noida,null,null,null,null,null,TSW - NOIDA - SECTOR 62,SECTOR 62,SECTOR62,null,Null,20,15,5
+18,Patna,Pataligram,null,null,null,null,TSW - PATNA - FRASER ROAD,FRASER ROAD,null,null,Null,20,15,5

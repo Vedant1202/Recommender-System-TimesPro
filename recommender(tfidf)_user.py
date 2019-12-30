@@ -78,3 +78,7 @@ def main(aoi=None, skills=None, serving=True):
     }
 
     print(getRecommendations(userData))
+
+
+if __name__ == '__main__':
+    main()
